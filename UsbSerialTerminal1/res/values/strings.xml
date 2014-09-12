@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USB Serial Terminal</string>
+
+    <string name="msg_not_connect">Not Connect</string>
+    <string name="msg_connected">Connected :</string>    
+    <string name="msg_attached">Attached :</string>    
+    <string name="msg_detached">Detached :</string>        
+    <string name="msg_found">Found:</string>        
+
+    <string name="hint_baudrate">9600</string>  
+    <string name="button_baudrate">Baudrate</string>    
+    <string name="button_send">Send</string>
+ 
+     <string name="msg_baudrate">Baudrate</string>
+     <string name="msg_not_set_baudrate">cannot set Baudrate</string>
+     <string name="msg_enter_baudrate">Enter Baudrate</string>     
+     <string name="msg_enter_text">Enter Text</string>   
+
+</resources>
