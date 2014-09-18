@@ -103,7 +103,7 @@ public class CommonActivity extends Activity {
 	 * @param String str
 	 */
 	protected void sendLF( String str ) {
-		send( str ＋LF );
+		send( str + LF );
 	}
 
 	/**
